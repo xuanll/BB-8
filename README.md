@@ -4,4 +4,5 @@ Based on Unity Forum Project [BB-8](http://forum.china.unity3d.com/thread-14562-
 
 - *UPDATE* : replace head flip **Sprite Rnderer**  with assigin multiple sprite images
 
+![BB8](/img/BB-8-Image.png)
 
